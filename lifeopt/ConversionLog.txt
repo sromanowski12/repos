@@ -1,0 +1,322 @@
+C:\Users\sroma\source\repos\lifeopt\lifeopt\Form1.cs
+
+C:\Users\sroma\source\repos\lifeopt\lifeopt\Form1.Designer.cs
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+System.Windows.Forms.ToolStripItem[]
+Changed System.Windows.Forms.ToolStripItem with Telerik.WinControls.RadItem
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+private System.Windows.Forms.Button button1;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.TabControl tabControl1;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage1;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage2;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.Button button2;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.TabPage tabPage3;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage4;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabControl tabControl2;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage5;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage6;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TreeView treeView1;
+Changed System.Windows.Forms.TreeView with Telerik.WinControls.UI.RadTreeView
+private System.Windows.Forms.TabControl tabControl3;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage7;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage8;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.DataGridView dataGridView1;
+Changed System.Windows.Forms.DataGridView with Telerik.WinControls.UI.RadGridView
+private System.Windows.Forms.TabControl tabControl4;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage11;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabControl tabControl5;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage9;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage12;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage10;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabControl tabControl6;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage13;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage14;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.MenuStrip menuStrip1;
+Changed System.Windows.Forms.MenuStrip with Telerik.WinControls.UI.RadMenu
+private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem saveAsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem printToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem printPreviewToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem undoToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem redoToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator3;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem cutToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem copyToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem selectAllToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem toolsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem customizeToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem optionsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem contentsToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem indexToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripMenuItem searchToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
+Changed System.Windows.Forms.ToolStripSeparator with Telerik.WinControls.UI.RadMenuSeparatorItem
+private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
+Changed System.Windows.Forms.ToolStripMenuItem with Telerik.WinControls.UI.RadMenuItem
+private System.Windows.Forms.TabPage tabPage15;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.ComboBox cmbPlaylists;
+Changed System.Windows.Forms.ComboBox with Telerik.WinControls.UI.RadDropDownList
+private System.Windows.Forms.Button button3;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.DataGridView dataGridView3;
+Changed System.Windows.Forms.DataGridView with Telerik.WinControls.UI.RadGridView
+private System.Windows.Forms.Button button4;
+Changed System.Windows.Forms.Button with Telerik.WinControls.UI.RadButton
+private System.Windows.Forms.TabControl tabControl7;
+Changed System.Windows.Forms.TabControl with Telerik.WinControls.UI.RadPageView
+private System.Windows.Forms.TabPage tabPage16;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+private System.Windows.Forms.TabPage tabPage17;
+Changed System.Windows.Forms.TabPage with Telerik.WinControls.UI.RadPageViewPage
+this.fileToolStripMenuItem.DropDownItems
+Changed this.fileToolStripMenuItem.DropDownItems to Items
+this.editToolStripMenuItem.DropDownItems
+Changed this.editToolStripMenuItem.DropDownItems to Items
+this.toolsToolStripMenuItem.DropDownItems
+Changed this.toolsToolStripMenuItem.DropDownItems to Items
+this.helpToolStripMenuItem.DropDownItems
+Changed this.helpToolStripMenuItem.DropDownItems to Items
+this.button1.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage1.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage11.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage9.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage12.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage10.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage13.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage14.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage4.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage5.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage6.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage7.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage8.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+Removed ColumnHeadersHeightSizeMode
+this.tabPage2.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage3.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.button2.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.newToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.newToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
+Removed ShortcutKeys
+this.openToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.openToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
+Removed ShortcutKeys
+this.saveToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.saveToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
+Removed ShortcutKeys
+this.printToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.printToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.P)));
+Removed ShortcutKeys
+this.printPreviewToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.undoToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
+Removed ShortcutKeys
+this.redoToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Y)));
+Removed ShortcutKeys
+this.cutToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.cutToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
+Removed ShortcutKeys
+this.copyToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.copyToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
+Removed ShortcutKeys
+this.pasteToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
+Removed ImageTransparentColor
+this.pasteToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
+Removed ShortcutKeys
+this.tabPage15.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.button3.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+Removed ColumnHeadersHeightSizeMode
+this.button4.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage16.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.tabPage17.UseVisualStyleBackColor = true;
+Removed UseVisualStyleBackColor
+this.MainMenuStrip = this.menuStrip1;
+Removed MainMenuStrip
+this.button1.Click += new System.EventHandler(this.btnSelectAllKeyword)
+Changed this.btnSelectAllKeyword
+this.button2.Click += new System.EventHandler(this.button2_Click)
+Changed this.button2_Click
+this.button3.Click += new System.EventHandler(this.loadCmb)
+Changed this.loadCmb
+this.button4.Click += new System.EventHandler(this.loadDt)
+Changed this.loadDt
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+System.Windows.Forms.TreeNode[]
+Changed System.Windows.Forms.TreeNode with Telerik.WinControls.UI.RadTreeNode
+
+C:\Users\sroma\source\repos\lifeopt\lifeopt\RoundButton.cs
+this.ForeColorChanged += new System.EventHandler(this.RoundButton_ForeColorChanged)
+Changed this.RoundButton_ForeColorChanged
+this.Enter += new System.EventHandler(this.RoundButton_Enter)
+Changed this.RoundButton_Enter
+this.MouseEnter += new System.EventHandler(this.RoundButton_MouseEnter)
+Changed this.RoundButton_MouseEnter
+this.BackColorChanged += new System.EventHandler(this.RoundButton_BackColorChanged)
+Changed this.RoundButton_BackColorChanged
+this.Leave += new System.EventHandler(this.RoundButton_Leave)
+Changed this.RoundButton_Leave
+this.MouseLeave += new System.EventHandler(this.RoundButton_MouseLeave)
+Changed this.RoundButton_MouseLeave
+
